@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on getting my **Master's degree in Computer Engineering**
 
-- 👨‍💻 My portfolio is available at [https://incredible-youtiao-6e2ea0.netlify.app/](https://incredible-youtiao-6e2ea0.netlify.app/)
+- 👨‍💻 My portfolio is available at [https://franjo-lovric.netlify.app/](https://franjo-lovric.netlify.app/)
 
 - 📫 You can reach me at **franjolovric23@gmail.com**
 
