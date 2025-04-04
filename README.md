@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Franjo Lovrić</h1>
-<h2 align="center">mag. ing. comp.</h2>
+<h2 align="center">Software Engineer</h2>
 
 &nbsp;
 
@@ -10,6 +10,15 @@
   <li>🌐 <strong>Portfolio:</strong> <a href="https://franjo-lovric.netlify.app/" target="_blank">franjo-lovric.netlify.app</a></li>
   <li>📧 <strong>Contact:</strong> <a href="mailto:franjolovric23@gmail.com">franjolovric23@gmail.com</a></li>
   <li>🤝 <strong>Open to:</strong> Collaborations, challenges, and learning opportunities in tech</li>
+</ul>
+
+&nbsp;
+
+<h2>🔥 Featured Projects</h2>
+<ul>
+  <li><strong><a href="https://github.com/franjo7/CroTechBot" target="_blank">CroTechBot</a></strong> – Chatbot powered by Google Gemini AI for real-time conversations. Built with React.js, Express.js, and MongoDB, featuring real-time response streaming and chat history storage.</li>
+  <li><strong><a href="https://github.com/Franjo7/Code-Camp-App" target="_blank">Code Camp Application</a></strong> –  Registration app for globalsoft's Code Camp workshops, developed with Next.js, Tailwind CSS, Node.js, Express.js, and MongoDB, with seamless API integration.</li>
+  <li><strong><a href="https://github.com/Franjo7/Trip-Harmony-App" target="_blank">Trip Harmony</a></strong> – Ride-sharing app connecting drivers and passengers, built with Laravel, MySQL, Vue.js, and Tailwind CSS.</li>
 </ul>
 
 &nbsp;
@@ -28,17 +37,11 @@
 
 <h2>🛠️ Languages & Tools</h2>
 <p>
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-  </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   </a>
   <a href="https://expressjs.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
@@ -91,5 +94,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franjo7&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franjo7&" alt="GitHub Streak Stats" />
-</p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franjo7&" alt="GitHub Streak Stats" /></p>
+
+&nbsp;
